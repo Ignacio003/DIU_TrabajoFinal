@@ -36,7 +36,14 @@ La siguiente practica consistia en hacer una propuesta de valor de un nuevo club
 
 La tercera y penultima practica consistio en crear un prototipo de prueba para la interfaz de nuestro proyecto que hemos creado en las anteriores practicas, en este caso lo hicimos adaptado a movil o HI-FI, lo primero que hicimos es el moodboard para definir el diseño visual, logo, texto, fuente, etc. Tambien la paleta de colores. Lo siguiente que hizo mi compañero ya que yo hice otros apartados fue la lading page el cual consisitia en una pagina promocional para dar a conocer nuestro proyecto, despues vinieron los guidelines los cuales nos permiten ver los patrones de interfaces de usuario que vamos a poner en el diseño. Por ultimo aparte del publish fue realizar todo el layout en FIGMA, incluyendo animaciones, texto, etc.
 
+La ultima practica de la asignatura fue evaluar otros proyectos que han sido desarrollados por nuestros compañeros, mediante la cambinacion de la tecnica de A/B test y el cuestionario SUS. Lo primero que hicimos fue llamara a otro grupo fisicamente en clase para que hagan de usuario de nuestro layout hecho en la pagina enterior y posteriormente evaluarnosla, luego hicimos lo mismo al reves y ellos nos la evaluaron.
+
+Una de la evaluacion consistio en realizar un test de eye tracking, para ver donde miran los usuarios y si coinciden con la parte mas importante de nuestra web. Despues cada de los usuarios hicimos el cuestionario SUS que nos rellenaron los compañeros y nosotros el suyo, la evaluacion fue muy positiva. Al final del todo hicimos el usuability report donde comentamos e hicimos un  informe de lo que hemos obtenido con los test asi como los problemas detectados y como creemos que deberian mejorarse.
 
 
+## Conclusion
 
+A lo largo de este curso, he aprendido mucho sobre el diseño de interfaces de usuario y la experiencia de usuario. Empezando desde el análisis etnográfico hasta la evaluación de diseño, cada actividad y práctica ha mejorado mis conocimientos y habilidades en UI. Ahora sé cómo empatizar con los usuarios, planificar y estructurar diseños efectivos, y validar mis ideas a través de pruebas y retroalimentación continua.
+
+Este curso ha cambiado mi manera de ver y abordar el diseño. Me ha dado un conjunto de habilidades valiosas que puedo aplicar en diferentes contextos. Me siento más preparado para enfrentar desafíos de diseño y crear soluciones que realmente satisfagan las necesidades de los usuarios. Esta experiencia ha sido muy transformadora, dándome la confianza y el conocimiento necesario para innovar y mejorar continuamente en el campo del diseño de interfaces y la experiencia de usuario.
 
