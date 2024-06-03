@@ -47,3 +47,14 @@ A lo largo de este curso, he aprendido mucho sobre el diseño de interfaces de u
 
 Este curso ha cambiado mi manera de ver y abordar el diseño. Me ha dado un conjunto de habilidades valiosas que puedo aplicar en diferentes contextos. Me siento más preparado para enfrentar desafíos de diseño y crear soluciones que realmente satisfagan las necesidades de los usuarios. Esta experiencia ha sido muy transformadora, dándome la confianza y el conocimiento necesario para innovar y mejorar continuamente en el campo del diseño de interfaces y la experiencia de usuario.
 
+
+## Parte 2
+
+Mi propuesta del diseño ha sido elegir entre las propuestas la del CITIC.
+![image](https://github.com/Ignacio003/DIU_TrabajoFinal/assets/88084412/5c566553-5e10-4301-a8ed-a8843f878433)
+
+Lo primero que hemos hecho ha sido inventarnos un personaje, en este caso hemos usado el ya desarrollado y en practicas y lo hemos adaptado.
+
+![image](https://github.com/Ignacio003/DIU_TrabajoFinal/assets/88084412/f54739d8-fe56-450d-84ca-e314fa9e68e5)
+
+Como vemos paco quiere ver tesis doctorales de ejemplo.
