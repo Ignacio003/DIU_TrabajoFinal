@@ -57,4 +57,24 @@ Lo primero que hemos hecho ha sido inventarnos un personaje, en este caso hemos 
 
 ![image](https://github.com/Ignacio003/DIU_TrabajoFinal/assets/88084412/f54739d8-fe56-450d-84ca-e314fa9e68e5)
 
-Como vemos paco quiere ver tesis doctorales de ejemplo.
+Como vemos paco quiere ver tesis doctorales de ejemplo. Lo siguiente que hacemos el journey map del usuario en la web.
+
+![image](https://github.com/Ignacio003/DIU_TrabajoFinal/assets/88084412/8e56f40a-576f-4ea2-81fe-2c189b9a1dd5)
+
+Despues hemos realizado un test de accesibilidad con WAVE.
+
+![image](https://github.com/Ignacio003/DIU_TrabajoFinal/assets/88084412/07971972-82fe-4810-9631-7589de59c208)
+
+Los resultados son bastante buenos comparado con la que hicimos de la del ayuntamiento, son errores minimos que al ver donde estan ni se ven.
+
+Luego hemos hecho como en el trabajo de clase y hemos deshabilitado el java script, alterado los colores, para solo ver el html, y toda la informacion se sigue viendo bien, un poco desordenada pero se puede ver toda la informacion, tambien al aumentar todo el texto.
+
+Para compararla la hemos comparado con la similar de la universidad de sevilla. Esta vez con un solo usuario.
+
+| Usuario ID| Sexo      | Edad | Ocupación  | Experiencia TIC         | Perfil  | Test | SUS  |
+| --------- | --------- | ---- | ---------- | ----------------------- | ------- | ---- | ---- | 
+| Paco   | Masculino  | 30   | Estudiante   | Media | Estudia un dcotorado e intenta buscar tesis de ejemplo para realizar la suya                                 | A    | 92.5 |
+| Paco   | Masculino  | 30   | Estudiante   | Media | Estudia un doctorado e intenta buscar tesis de ejemplo ya que en la de granada no lo ha encontrado                                  | B    | 62.5 |
+
+
+
