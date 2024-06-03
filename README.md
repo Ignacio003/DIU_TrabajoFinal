@@ -28,6 +28,15 @@ La ultima actividad fue la de desarrollar una pagina web creativa, mas bien el d
 
 Mientras haciamos las practicas tuvimos que comprender cuales eran las necesidades de nuestros usuarios, los que queriamos que entren a la web y de los que no, ya que el usuario comun no conoce el diseño que has realizado, y debe ser intuitivo para todos, conozca el diseño o no, despues hicimos un diseño desde cero de una aplicacion adaptada a movil  y lo comparamos con otros realizados por otros compañeros.
 
-Como la primera practica consistia en hacer el analisis de los usuarios para nuestra web, nos inventamos varias personas, la tematica de la practica nuestra consistia en actividades de montaña,
+Como la primera practica consistia en hacer el analisis de los usuarios para nuestra web, nos inventamos varias personas, la tematica de la practica nuestra consistia en actividades de montaña.
+
+Ya teniamos la tematica y los usuarios, hemos analizado a una web, basicamente la competencia,para ver sus puntos flacos y buenos, realizamos los journey map para determinar el flujo que tenia ese usuario en dicha web para descrubir las necesidades reales de los usuarios que la visitaran, tam bien realizamos un usability review teniendo en cuenta la experiencia de nuestros usuarios inventados.
+
+La siguiente practica consistia en hacer una propuesta de valor de un nuevo club par hacer dichas actividades de montaña, en ella explicamos en que consistiria nuestro proyecto, ademas de un task analisis para identificar las tareas principales que podran hacer los usuarios, tambien un user flow de varias paginas para determinar por donde queremos que se muevan, incluyendo un sitemap para identificar e indexar bien la web. Por ultimo en esta practica realizamos una serie de bocetos para las distintas pantallas de la interfaz.
+
+La tercera y penultima practica consistio en crear un prototipo de prueba para la interfaz de nuestro proyecto que hemos creado en las anteriores practicas, en este caso lo hicimos adaptado a movil o HI-FI, lo primero que hicimos es el moodboard para definir el diseño visual, logo, texto, fuente, etc. Tambien la paleta de colores. Lo siguiente que hizo mi compañero ya que yo hice otros apartados fue la lading page el cual consisitia en una pagina promocional para dar a conocer nuestro proyecto, despues vinieron los guidelines los cuales nos permiten ver los patrones de interfaces de usuario que vamos a poner en el diseño. Por ultimo aparte del publish fue realizar todo el layout en FIGMA, incluyendo animaciones, texto, etc.
+
+
+
 
 
