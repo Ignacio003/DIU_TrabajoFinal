@@ -77,4 +77,9 @@ Para compararla la hemos comparado con la similar de la universidad de sevilla. 
 | Paco   | Masculino  | 30   | Estudiante   | Media | Estudia un doctorado e intenta buscar tesis de ejemplo ya que en la de granada no lo ha encontrado                                  | B    | 62.5 |
 
 
+Pese a que en la de granada ni en la de sevilla encuentran lo que necesita la de granada esta mucho mas estructurada que la segunda, la segunda no tiene submenus, no esta adaptada a pantallas pequeñas, etc. Tambien se solapa el texto y el html entre si.
 
+#### Apartado C
+En esta segunda parte hemos escogido una web, hemos inventado un usuario el cual tiene una necesidad y nos hemos puesto en su piel para valorar su experiencia, luego hemos hecho lo mismo para la que hemos decidido compararla. Creo que me han faltado algunas cosas por hacer como puede ser el eye tracking. Pero estando en la epoca de estudio no me ha sido posible. Muchas Gracias.
+
+Fin.
