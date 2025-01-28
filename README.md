@@ -4,6 +4,8 @@
 
 ## Parte 1
 
+This project is tested with BrowserStack.
+
 ### Introduccion
 
 Antes de llegar al segundo cuatrimestre de tercero no había tocado nada o casi nada que tenga que ver con el aspecto gráfico de la informática. Al llegar a la asignatura de diseño de interfaces de usuario no tenía muy claro que íbamos a realizar pero con el paso de la asignatura comprendí que un buen diseño es tan importante, y probablemente más que la implementación. Ya que permite al usuario una experiencia agradable y fluida. Durante esta primera parte de la práctica final reflejare mi progreso de aprendizaje en esta asignatura, desde como podemos apreciar un buen diseño a analizar objetivamente interfaces, valorarlas y poder decidir si cambios segun nuestro critero, las necesidades del usuario, etc.
