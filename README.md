@@ -2,6 +2,11 @@
 
 ## :bust_in_silhouette:  Autor: Ignacio Fortes Soria
 
+## Description
+This project documents my learning journey in the User Interface Design (DIU) course, focusing on UI/UX principles, usability, and accessibility.
+
+I explored user research, website evaluation, accessibility testing, and UI prototyping using tools like Figma. Practical exercises included analyzing user needs, creating personas, designing mobile interfaces, and testing usability.
+
 ## Parte 1
 
 This project is tested with BrowserStack.
